@@ -52,6 +52,7 @@ const addTaskForm = (props) => {
                 </div>
                 <div>
                     <TextField
+                        required
                         id="outlined-select-priority"
                         name="priority"
                         select
